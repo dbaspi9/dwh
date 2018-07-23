@@ -1,0 +1,19 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.terms {
+  font-size: x-small;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+@media screen and (min-width:768px) {
+  .pt100 {
+    padding-top: 100px;
+  }
+}
