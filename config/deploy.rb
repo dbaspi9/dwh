@@ -3,7 +3,7 @@ lock "~> 3.11.0"
 
 set :application, "dwh"
 set :repo_url, "git@github.com:dbaspi9/dwh.git"
-set :deploy_to, "/home/dwh/domains/hetman-braciejowa.pl"
+set :deploy_to, "/home/pasjasmaku/domains/hetman-braciejowa.pl"
 
 set :branch, "master"
 set :use_sudo, false
